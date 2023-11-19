@@ -1,7 +1,7 @@
 # lexical-analysis
 ## lexical analysis of a c file using the c language
 ### for example, an input of this file will generate the resulting tokens
-```
+```c I'm tab a
 int main(){
     char * p = name;
     int x = 20;
